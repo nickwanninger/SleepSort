@@ -1,8 +1,8 @@
 
-public class SleepSortSlave implements Runnable {
+public class SleepSort implements Runnable {
 	public int n;
 	
-	public SleepSortSlave(int n) {
+	public SleepSort(int n) {
 		this.n = n;
 	}
 
